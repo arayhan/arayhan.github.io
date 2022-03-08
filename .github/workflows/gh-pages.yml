@@ -3,7 +3,7 @@ name: GitHub Pages - Ruangguru Bootcamp
 on:
   push:
     branches:
-      - ruangguru-bootcamp  # Set a branch name to trigger deployment
+      - main  # Set a branch name to trigger deployment
 
 jobs:
   deploy:

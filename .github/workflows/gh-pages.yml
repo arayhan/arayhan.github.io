@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - gh-pages-ruangguru-bootcamp  # Set a branch to deploy
+      - ruangguru-bootcamp  # Set a branch to deploy
   pull_request:
 
 jobs:
